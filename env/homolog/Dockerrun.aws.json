@@ -1,0 +1,12 @@
+{
+    "AWSEBDockerrunVersion": "1",
+    "Image": {
+      "Name": "637423334565.dkr.ecr.us-west-2.amazonaws.com/homologacao:v1",
+      "Update": "true"
+    },
+    "Ports": [
+      {
+        "ContainerPort": 8000
+      }
+    ]
+  }
